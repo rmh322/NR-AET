@@ -4,7 +4,8 @@ This repository contains raw lipidomics and proteomics data and R scripts for da
 ## Files
 **LIPIDOMICS**
 - 'NR-AET_lipidomics raw data.xlsx' - Raw lipidomics data
-- 
+- 'NR-AET_lipidomics FBG v DAG.xlsx' - Raw DAG lipidome and fasting blood glucose data for correlation analysis
+- 'NR-AET_corr matrix (FBG v DAG) plot.r' - Script for correlation analysis between DAG and fasting blood glucose levels
 
 **PROTEOMICS**
 - 'NR-AET_raw data.xlsx' - Raw proteomics data
