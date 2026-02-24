@@ -3,6 +3,8 @@ This repository contains raw lipidomics and proteomics data and R scripts for da
 
 ## Files
 **LIPIDOMICS**
+- 'NR-AET_lipidomics raw data.xlsx' - Raw lipidomics data
+- 
 
 **PROTEOMICS**
 - 'NR-AET_raw data.xlsx' - Raw proteomics data
